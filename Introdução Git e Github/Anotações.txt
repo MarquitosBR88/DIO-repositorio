@@ -1,0 +1,12 @@
+Comandos Úteis:
+git init
+git add (* / -a)
+git commit -m "Alguma informação explicando o update"
+git clone
+cd
+git status (Untracked,modified,staged)
+git push origin main
+
+
+Links Úteis:
+Link do Repositório:https://github.com/MarquitosBR88/DIO-repositorio

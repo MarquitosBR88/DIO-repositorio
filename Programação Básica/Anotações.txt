@@ -1,0 +1,7 @@
+Comandos no Portugol Studio:
+escreva("alguma coisa") //Responde algo ao usuário que está utilizando o código
+leia("alguma coisa") //Pede ao usuário inserir algo número
+inteiro,cadeia,caracter,real //Tipos de variáveis
+vetor[][]{"alguma coisa","alguma coisa 2","alguma coisa 3"} //Exemplo de um vetor
+enquanto "variável"<=2 ("alguma mensagem ao usuário") //Exemplo do enquanto
+"variável" ++ //Somar o número da variável
