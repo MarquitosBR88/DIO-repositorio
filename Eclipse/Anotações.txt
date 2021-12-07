@@ -1,0 +1,5 @@
+Eclipse é meio complicado de usar, fazer o favor de pesquisar mais a fundo mais pra frente.
+
+Atalhos:
+CTRL + ALT + ESPAÇO
+CTRL + SHIFT + O
