@@ -7,3 +7,5 @@ No momento estou utilizando o Java 11 Zulu LTS
 [Linguagem Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
 [Java Zulu](https://www.azul.com/downloads/?package=jdk)
+
+[Atalhos IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
