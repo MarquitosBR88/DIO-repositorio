@@ -9,3 +9,9 @@ No momento estou utilizando o Java 11 Zulu LTS
 [Java Zulu](https://www.azul.com/downloads/?package=jdk)
 
 [Atalhos IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
+
+[Scorecard DDD](https://www.informit.com/articles/article.aspx?p=1944876&seqNum=2)
+
+[Mais sobre Microsserviços](https://blog.geekhunter.com.br/arquitetura-de-microsservicos-x-arquitetura-monolitica/)
+
+[Mais sobre DDD](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
